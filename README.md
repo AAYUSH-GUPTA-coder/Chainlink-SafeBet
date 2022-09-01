@@ -8,7 +8,11 @@ Safebet is a polygon chain-based decentralised betting application. It is true, 
 
 ## CryptoBet
 It is, as the name implies, a game in which you bet on cryptocurrency. We for now offer only Ethereum; the game is simple; all you have to do is predict whether the price of ETH will rise or fall from its current rate. After you put your bet, you must wait an hour to see if you won.
+### Contract Address: 0xc7914b55Dbbc99ea8c97FE9989EC9D66cb8FC8E0
+### ✨✨ [Polgonscan Link](https://mumbai.polygonscan.com/address/0xc7914b55dbbc99ea8c97fe9989ec9d66cb8fc8e0#code) ✨✨
 
 
 ## Lottery Game
 Simple but fun. Join a Lottery game and have a chance to win the entire prize pool! No fancy or complicated rules. Join and win!
+### Contract Address: 0xeD2637CfE647BA2a64D7f17440bD0aE97cF819E3
+### ✨✨ [Polgonscan Link](https://mumbai.polygonscan.com/address/0xeD2637CfE647BA2a64D7f17440bD0aE97cF819E3#code) ✨✨
